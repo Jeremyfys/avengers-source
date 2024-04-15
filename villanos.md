@@ -4,3 +4,4 @@
 * Red Skull
 * Dr. Jeremy
 * Silver Surfer
+* Duende Verde
